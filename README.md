@@ -1,6 +1,7 @@
 # Bus Future Route List Screen
 
-A new Flutter project.
+A Simple flutter screen, in which future trips list for a particular route based on current time set on
+device is displayed.List is updated every minute. Data is fetched from sample.json.
 
 
 
